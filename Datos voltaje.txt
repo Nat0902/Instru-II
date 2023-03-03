@@ -1,5 +1,4 @@
-Time - Plot 0	Amplitude - Plot 0	
-0	NaN	
+0	0,000000
 1	0,704636	
 2	0,704608	
 3	0,7046	
